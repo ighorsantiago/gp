@@ -1,4 +1,4 @@
-import { Container, Component, Text, Logo, BtnBox, Btn, BtnText } from "./styles";
+import { Container, Text } from "./styles";
 
 export function RJ() {
 

@@ -1,18 +1,6 @@
-import { Container, Component, Text, Logo, BtnBox, Btn, BtnText } from "./styles";
-
-import { Header } from "../../components/Header";
-
-import logo from "../../../assets/fav.svg";
-import { Drop } from "../../components/Drop";
-import { useState } from "react";
-import { Popup } from "../../components/Popup";
+import { Container, Component, Text, BtnBox, Btn, BtnText } from "./styles";
 
 export function Home() {
-	const [visible, setVisible] = useState(false);
-
-	function handlePopup() {
-		setVisible(true);
-	}
 
 	return (
 		<Container>
