@@ -65,8 +65,6 @@ export const Btn = styled(Link)`
     width: 200px;
     height: 200px;
 
-    text-align: center;
-
     border-radius: 5px;
     border-width: 0;
 
@@ -76,7 +74,7 @@ export const Btn = styled(Link)`
 
     opacity: 0.3;
 
-    background-color:rgb(30, 36, 79);
+    background-color: gray;
 `;
 
 export const BtnText = styled.text`

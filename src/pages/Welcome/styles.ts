@@ -79,6 +79,7 @@ export const Btn = styled(Link)`
     background-color:rgb(30, 36, 79);
 `;
 
+
 export const BtnText = styled.text`
     font-size: 18px;
     font-weight: bold;
