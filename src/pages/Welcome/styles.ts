@@ -61,7 +61,9 @@ export const BtnBox = styled.div`
     }
 `;
 
-export const Btn = styled(Link)`
+export const BtnLink = styled(Link)``;
+
+export const Btn = styled.div`
     width: 200px;
     height: 200px;
 
